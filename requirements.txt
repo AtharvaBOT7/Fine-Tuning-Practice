@@ -1,1 +1,4 @@
 ipykernel
+transformers
+torch
+scikit-learn
