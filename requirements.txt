@@ -2,3 +2,5 @@ ipykernel
 transformers
 torch
 scikit-learn
+accelerate==0.30.1
+datasets

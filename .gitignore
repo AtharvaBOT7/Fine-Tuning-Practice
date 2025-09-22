@@ -1,5 +1,6 @@
 finetuning
 env.txt
+bert_output_1
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
