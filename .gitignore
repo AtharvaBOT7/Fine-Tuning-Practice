@@ -2,6 +2,9 @@ finetuning
 env.txt
 bert_output_1
 llama2testing
+check
+gemmakeras
+kaggle.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
