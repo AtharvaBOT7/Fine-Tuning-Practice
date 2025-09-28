@@ -1,6 +1,7 @@
 finetuning
 env.txt
 bert_output_1
+llama2testing
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
