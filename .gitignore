@@ -4,6 +4,7 @@ bert_output_1
 llama2testing
 check
 gemmakeras
+gptq
 kaggle.json
 
 # Byte-compiled / optimized / DLL files
